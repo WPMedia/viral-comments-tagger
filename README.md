@@ -1,7 +1,7 @@
 # Predicting the Popularity of News Comments
 
 ## Task
-Predict the total number of comments a thread will receive (Popularity) based on the comments received in the first 30 minutes.
+Predict the total number of comments a thread will receive (a.k.a. it's popularity) based on the comments received in the first 30 minutes.
 
 ## Dataset
 We built a Post News Comments dataset contains more than 20 million threading conversations with 300 million utterances that are labelled with rich features covers social, news, linguistic and temporal dimensions. 
